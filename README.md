@@ -1,1 +1,1 @@
-A collection of autohotkey scripts that are useful
+A collection of autohotkey scripts I've found useful
